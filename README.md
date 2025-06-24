@@ -2,6 +2,8 @@
 
 A sophisticated emulation of the classic SSM2044 4-pole voltage-controlled low-pass filter IC used in legendary synthesizers like the Korg Polysix and Mono/Poly. Features zero-delay feedback topology, analog-style nonlinear saturation, and authentic self-oscillation characteristics.
 
+Note - still working on frequency input scaling!
+
 ## Features
 
 - **Zero-Delay Feedback (ZDF) Topology**: Stable 4-pole low-pass filter with accurate feedback modeling
